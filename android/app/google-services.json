@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674840837548",
+    "project_id": "date-app-960e8",
+    "storage_bucket": "date-app-960e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674840837548:android:203a1b52d78d2790f04e09",
+        "android_client_info": {
+          "package_name": "com.Andy250.chatapp_draft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674840837548-41mnjo381oa7em8t8a828a1ii20j755s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJGBS6gkfPolq1hFLbUKmMeN_ZpSJ4nwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674840837548-41mnjo381oa7em8t8a828a1ii20j755s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
